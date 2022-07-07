@@ -1,4 +1,4 @@
-# Me chamo Lucas!
+# Meu nome é Lucas :)
 
 <div align>
   <a href="https://github.com/brunoaxlrose/brunoaxlrose ">
